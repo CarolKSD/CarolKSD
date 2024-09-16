@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarolKSD
-- 👀 I’m interested in learning and contributing to the community. I want to create my portfolio :)
-- 🌱 I’m currently learning Data Science and Machine Learning!
-- 💞️ I’m looking to collaborate on Python codes, Machine Learning models...
+- 👀 I’m interested in learning and contributing to the community.
+- 🌱 I am a Machine Learning and Data Scientist!
+- 💞️ I’m looking to collaborate on Python codes, Machine Learning models, etc...
 - 📫 How to reach me: carolinedalmazzo@hotmail.com
 
 <!---
